@@ -1,0 +1,19 @@
+StartChar: uni06F0
+Encoding: 0 1776 0
+Width: 355
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+178 116 m 0
+ 229 71 287 206 310 195 c 0
+ 350 175 285 74 237 33 c 0
+ 178 -15 105 -13 74 57 c 0
+ 13 198 157 289 201 359 c 1
+ 170 339 96 361 77 433 c 0
+ 46 554 210 731 215 704 c 0
+ 226 650 62 437 188 439 c 0
+ 443 444 54 225 178 116 c 0
+EndSplineSet
+EndChar
