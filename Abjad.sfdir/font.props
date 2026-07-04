@@ -3,55 +3,67 @@ FontName: Abjad
 FullName: Abjad
 FamilyName: Abjad
 Weight: Regular
-Copyright: Copyright (c) 2025, Persian Calendar
-UComments: "https://github.com/persian-calendar"
+Copyright: Copyright (c) 2026, Persian Calendar, based on Scheherazade New by SIL International
 Version: 001.000
 ItalicAngle: 0
-UnderlinePosition: -100
-UnderlineWidth: 50
-Ascent: 800
-Descent: 200
+UnderlinePosition: -850
+UnderlineWidth: 100
+Ascent: 1638
+Descent: 410
 InvalidEm: 0
+sfntRevision: 0x00048000
 LayerCount: 2
-Layer: 0 0 "Back" 1
-Layer: 1 0 "Fore" 0
-XUID: [1021 974 530114448 1022308]
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 974 530114448 15202059]
+StyleMap: 0x0040
 FSType: 0
-OS2Version: 0
-OS2_WeightWidthSlopeOnly: 0
+OS2Version: 4
+OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
-CreationTime: 1757756475
-ModificationTime: 1757779230
-PfmFamily: 17
+CreationTime: 1775572917
+ModificationTime: 1783163938
+PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 90
+LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
-OS2TypoLinegap: 90
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
-OS2Vendor: 'PfEd'
-MarkAttachClasses: 1
+Panose: 1 0 6 0 2 0 0 2 0 3
+OS2TypoAscent: 2750
+OS2TypoAOffset: 0
+OS2TypoDescent: -1427
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 2884
+OS2WinAOffset: 0
+OS2WinDescent: 2100
+OS2WinDOffset: 0
+HheadAscent: 2750
+HheadAOffset: 0
+HheadDescent: -1427
+HheadDOffset: 0
+OS2SubXSize: 1240
+OS2SubYSize: 1240
+OS2SubXOff: 0
+OS2SubYOff: 1200
+OS2SupXSize: 1240
+OS2SupYSize: 1240
+OS2SupXOff: 0
+OS2SupYOff: 1200
+OS2StrikeYSize: 100
+OS2StrikeYPos: 492
+OS2CapHeight: 1034
+OS2XHeight: 684
+OS2Vendor: 'PCal'
+Lookup: 1 8 0 "'fina' Terminal Forms in Arabic lookup 0" { "'fina' Terminal Forms in Arabic lookup 0 subtable"  } ['fina' ('arab' <'dflt' > ) ]
+Lookup: 1 8 0 "'medi' Medial Forms in Arabic lookup 1" { "'medi' Medial Forms in Arabic lookup 1 subtable"  } ['medi' ('arab' <'dflt' > ) ]
+Lookup: 1 8 0 "'init' Initial Forms in Arabic lookup 2" { "'init' Initial Forms in Arabic lookup 2 subtable"  } ['init' ('arab' <'dflt' > ) ]
 DEI: 91125
-LangName: 1033
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 28 11
-BeginPrivate: 0
-EndPrivate
-TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+WinInfo: 0 30 10
 EndSplineFont
